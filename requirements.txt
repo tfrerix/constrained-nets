@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pandas
+pycddlib==2.1.1
+osqp==0.5.0
